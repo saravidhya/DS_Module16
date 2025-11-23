@@ -13,8 +13,8 @@ To write a C function to delete an element in a B Tree.
 ```
 /*
 Program to write a C function to delete an element in a B Tree
-Developed by: V.YOGESH
-RegisterNumber:212223230250
+Developed by: VIDHIYA LAKSHMI S
+RegisterNumber:212223230238
 */
 *structBTreeNode{
 int item[MAX+1], count;
